@@ -1,6 +1,8 @@
-# rescuerovers
+# Clone the Repository
 
-A new Flutter project.
+git clone https://github.com/HinaHMS/RescueRovers_Mobile_Application_using_Flutter_Graduate_Project_2024.git
+  
+This repository contains a Flutter project for the RescueRovers mobile application.
 
 ## Getting Started
 
